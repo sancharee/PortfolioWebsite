@@ -1,0 +1,130 @@
+{
+  "main": {
+    "name": "Sandeep Kapalawai",
+    "occupation": "UI Developer @Mphasis",
+    "description": "A professional programmer with ability to do optimized and dynamic programming, always ready to face the challenges and like to achieve whatever comes in myway.",
+    "image": "Screenshot_4.png",
+    "bio": "I'm Sandeep Kapalawai, born and brought up in Warangal,Telangana,India. I have completed my KG to Graduation from my home town. Later, i moved Hyderabad, i started my proffesional career by working with market research based firm, there i have worked on the projects with Web techonlogies and JS/Jquery for 3 years and then i have started working with React, which i feel very intrested in that.I have 5+ years of experience in front end, where i have worked on various domains like insurance, banking and Market Research.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "sandeepkapalawai@hotmail.com",
+    "phone": "+91 9160056602",
+    "address": {
+      "street": "Hanamkonda",
+      "city": "Warangal",
+      "state": "Telangana",
+      "zip": "506001"
+    },
+    "website": "https://www.scribd.com/document/478419495/Sandeep-Kapalawai-UI-React-5-Years",
+    "resumedownload": "https://www.scribd.com/document/478419495/Sandeep-Kapalawai-UI-React-5-Years",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/sandeepkapalawa/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/sandeep-kapalawai-a028b334/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/sandeepkapal/?hl=en",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/SandeepKapalawai",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    
+    "education": [
+      {
+        "school": "Balaji Institue of Engineering and Sciences",
+        "degree": "B.Tech with Computer Science",
+        "graduated": "May 2015",
+        "description": "Graduated with 68%"
+      }
+    ],
+    "work": [
+      {
+        "company": "Mphasis",
+        "title": "UI Developer",
+        "years": "August 2018 - Present",
+        "description": ""
+      },
+      {
+        "company": "Jegan Research Associates",
+        "title": "Programmer Analyst",
+        "years": "August 2015 - July 2018",
+        "description": ""
+      }
+    ],
+    "skills": [
+     
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "Redux",
+        "level": "70%"
+      },
+      {
+        "name": "Javascript",
+        "level": "80%"
+      },
+      {
+        "name": "GraphQL",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "80%"
+      },
+     
+      {
+        "name": "HTML5",
+        "level": "90%"
+      },
+      {
+        "name": "Accessability",
+        "level": "75%"
+      },
+      {
+        "name": "Git",
+        "level": "90%"
+      },
+      {
+        "name": "Figma",
+        "level": "55%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+     
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png",
+        "url": "https://facebook-8158d.web.app/"
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "Airbnb Clone built with ReactJS",
+        "image": "airbnb-clone.jpeg",
+        "url": "https://airbnb-8d5ff.web.app/"
+      },
+      {
+        "title": "Hulu Clone",
+        "category": "Hulu Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "https://hulu-34fae.web.app/"
+      }
+    ]
+  }
+}
