@@ -1,7 +1,7 @@
 
 
 
-<a href="https://sandeepkapalawai.netlify.app/">LIVE DEMO</a>
+<a href="https://sanchareedas.netlify.app/">LIVE DEMO</a>
 
 ## Description
 This is a ReactJS based personal resume website
