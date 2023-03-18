@@ -14,93 +14,116 @@
       "country": "India",
       "zip": "560067"
     },
-    "website": "https://www.scribd.com/document/478419495/Sandeep-Kapalawai-UI-React-5-Years",
-    "resumedownload": "https://www.scribd.com/document/478419495/Sandeep-Kapalawai-UI-React-5-Years",
+    "website": "https://www.scribd.com/document/631860793/Sancharee-Das",
+    "resumedownload": "https://www.scribd.com/document/631860793/Sancharee-Das",
     "social": [
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/sandeepkapalawa/",
-        "className": "fa fa-facebook"
-      },
+      
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/sandeep-kapalawai-a028b334/",
+        "url": "https://www.linkedin.com/in/sancharee-das/",
         "className": "fa fa-linkedin"
       },
-      {
-        "name": "instagram",
-        "url": "https://www.instagram.com/sandeepkapal/?hl=en",
-        "className": "fa fa-instagram"
-      },
+      
       {
         "name": "github",
-        "url": "https://github.com/SandeepKapalawai",
+        "url": "https://github.com/sancharee",
         "className": "fa fa-github"
+      },
+      {
+        "name": "medium",
+        "url": "https://medium.com/@sanchareedas",
+        "className": "fa fa-medium"
       }
+
     ]
   },
   "resume": {
     
     "education": [
       {
-        "school": "Balaji Institue of Engineering and Sciences",
-        "degree": "B.Tech with Computer Science",
-        "graduated": "May 2015",
-        "description": "Graduated with 68%"
+        "school": "Liverpool John Moores University",
+        "degree": "MSc. in AI/ML",
+        "graduated": "October 2022",
+        "description": "Graduated with Merit"
       }
     ],
     "work": [
       {
-        "company": "Mphasis",
-        "title": "UI Developer",
-        "years": "August 2018 - Present",
+        "company": "Maersk Global Services Pvt Ltd",
+        "title": "Senior Software Engineer",
+        "years": "July 2021 - Feb 2023",
         "description": ""
       },
       {
-        "company": "Jegan Research Associates",
+        "company": "Innova Solutions Pvt Ltd",
+        "title": "Product Analyst",
+        "years": "March 2018 - July 2021",
+        "description": ""
+      },
+      {
+        "company": "LTI",
+        "title": "Lead Engineer",
+        "years": "May 2016 - June 2017",
+        "description": ""
+      },
+      {
+        "company": "JP Morgan Chase Pvt Ltd",
+        "title": "Associate",
+        "years": "Feb 2015 - May 2016",
+        "description": ""
+      },
+      {
+        "company": "Siemens Technology Services Pvt Ltd",
+        "title": "Associate Consultant",
+        "years": "Sep 2013-Nov 2014",
+        "description": ""
+      },
+      {
+        "company": "Cognizant Technology Services",
         "title": "Programmer Analyst",
-        "years": "August 2015 - July 2018",
+        "years": "Sep 2007-Mar 2013",
         "description": ""
       }
+
     ],
     "skills": [
      
       {
-        "name": "ReactJs",
+        "name": "Python",
         "level": "80%"
       },
       {
-        "name": "Redux",
+        "name": "SQL",
         "level": "70%"
       },
       {
-        "name": "Javascript",
+        "name": "Linear Regression",
         "level": "80%"
       },
       {
-        "name": "GraphQL",
-        "level": "50%"
+        "name": "Decision Tree",
+        "level": "70%"
       },
       {
-        "name": "CSS",
+        "name": "Regularization",
         "level": "80%"
       },
      
       {
-        "name": "HTML5",
+        "name": "Convolutional Neural Network",
         "level": "90%"
       },
       {
-        "name": "Accessability",
+        "name": "Deep Neural Network",
         "level": "75%"
       },
       {
-        "name": "Git",
-        "level": "90%"
+        "name": "Reinforcement Learning",
+        "level": "60%"
       },
       {
-        "name": "Figma",
-        "level": "55%"
+        "name": "Git",
+        "level": "80%"
       }
     ]
   },
@@ -110,21 +133,13 @@
       {
         "title": "Facebook Clone with React",
         "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
+        "image": "hand_gesture.jpg",
         "url": "https://facebook-8158d.web.app/"
-      },
-      {
-        "title": "Airbnb Clone",
-        "category": "Airbnb Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": "https://airbnb-8d5ff.web.app/"
-      },
-      {
-        "title": "Hulu Clone",
-        "category": "Hulu Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
-        "url": "https://hulu-34fae.web.app/"
       }
+
+      
+      
+      
     ]
   }
 }
