@@ -26,24 +26,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "description": "<a href=\"https://sandeepkapalawai.netlify.app/\">LIVE DEMO</a>",
-  "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/sancharee/PortfolioWebsite.git"
-  },
-  "keywords": [
-    "machine-learning",
-    "deep-learning",
-    "recommender-systems",
-    "artificial-intelligence",
-    "computer-vision"
-  ],
-  "author": "Sancharee Das",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/sancharee/PortfolioWebsite/issues"
-  },
-  "homepage": "https://github.com/sancharee/PortfolioWebsite#readme"
+  }
 }
