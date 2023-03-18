@@ -1,18 +1,18 @@
 {
   "main": {
-    "name": "Sandeep Kapalawai",
-    "occupation": "UI Developer @Mphasis",
-    "description": "A professional programmer with ability to do optimized and dynamic programming, always ready to face the challenges and like to achieve whatever comes in myway.",
-    "image": "Screenshot_4.png",
-    "bio": "I'm Sandeep Kapalawai, born and brought up in Warangal,Telangana,India. I have completed my KG to Graduation from my home town. Later, i moved Hyderabad, i started my proffesional career by working with market research based firm, there i have worked on the projects with Web techonlogies and JS/Jquery for 3 years and then i have started working with React, which i feel very intrested in that.I have 5+ years of experience in front end, where i have worked on various domains like insurance, banking and Market Research.",
-    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sandeepkapalawai@hotmail.com",
-    "phone": "+91 9160056602",
+    "name": "Sancharee Das",
+    "occupation": "Machine Learning Engineer",
+    "description": "Senior Software Engineer passionate about buiding scalable Machine Learning model sfor solving real-world problems.",
+    "image": "myPicture.jpg",
+    "bio": "I’m Sancharee Das. A Senior Software Engineer with expertise in Natural Language Processing and Deep Neural Networks. Completed my Master of Science in AI/ML from Liverpool John Moores University , UK.I work towards bridging the gap between human and machine intelligence, in order to augment human analytical and problem-solving capabilities. Chasing sunsets along the beach, binge-watching, listening to music and reading are some of the other things that I love doing.",
+    "contactmessage": "Reach me at",
+    "email": "sanchareedas@gmail.com",
+    "phone": "+91 7259832288",
     "address": {
-      "street": "Hanamkonda",
-      "city": "Warangal",
-      "state": "Telangana",
-      "zip": "506001"
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "country": "India",
+      "zip": "560067"
     },
     "website": "https://www.scribd.com/document/478419495/Sandeep-Kapalawai-UI-React-5-Years",
     "resumedownload": "https://www.scribd.com/document/478419495/Sandeep-Kapalawai-UI-React-5-Years",
